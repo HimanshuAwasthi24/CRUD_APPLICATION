@@ -1,2 +1,3 @@
-# CRUD_APPLICATION
-A simple crud web app using express ,mongodb and ejs.
+In this CRUD_APPLICATION
+Create config.env file and define PORT and MONGO_URI
+Do npm start and then your good to go
